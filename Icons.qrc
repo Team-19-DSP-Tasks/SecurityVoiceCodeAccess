@@ -1,7 +1,8 @@
 <RCC>
   <qresource prefix="Icons">
-    <file>Images/images.png</file>
-    <file>Images/png-transparent-computer-icons-button-phonograph-record-buttons-miscellaneous-sphere-sound-recording-and-reproduction.png</file>
-    <file>Images/Stop.jpg</file>
+    <file>Images/voice-recognition.png</file>
+    <file>Images/voice-recording.png</file>
+    <file>Images/unlocked.png</file>
+    <file>Images/locked.png</file>
   </qresource>
 </RCC>
